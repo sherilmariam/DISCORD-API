@@ -2,6 +2,7 @@
 DISCORD API | SATURDAY HACKNIGHT | 5 NOV 2022
 
 -------------MIRAIBOT-----------------
+
 Mirai is an Encouraging cum Reminder bot.
 The bot will perform once !<message> is encountered.
 Users can add their tasks in the To do List. The tasks which are done can be removed.
